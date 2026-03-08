@@ -13,7 +13,7 @@ def main():
     # Configuración de la página
     st.set_page_config(
         page_title="Identificador de ODS",
-        page_icon="🌍",
+        page_icon="♻️",
         layout="centered"
     )
 
