@@ -131,7 +131,7 @@ def main():
             }
         </style>
         <div class="footer">
-            Desarrollado por: <strong>German Pinzon y Diego Klinger</strong> | MAIA-2026
+            Desarrollado por: <strong>German Pinzon y Diego Klinger</strong> | Uniandes-MAIA-2026
         </div>
     """, unsafe_allow_html=True)
 
